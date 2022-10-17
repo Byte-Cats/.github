@@ -1,5 +1,7 @@
-# NYA!
+<div align="center";>
 
+
+# NYA!
 <a href="https://www.guilded.gg/r/zzWErmYwGl?i=4PRqV9lm"><img src="https://avatars.githubusercontent.com/u/39399893?s=200&v=4" width="80"></a>
 <br>
 <a href="https://discord.gg/v68Z2SYq"><img src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Square-1024x1024.png" width="80"></a>
@@ -7,3 +9,6 @@
 
 
 # [Docs](https://github.com/byte-cats/docs)
+
+
+</div>
